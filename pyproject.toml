@@ -19,6 +19,7 @@ classifiers = [
     "Framework :: Django",
     "License :: OSI Approved :: MIT License",
 ]
+dynamic = ["license"]
 
 [project.urls]
 "Homepage" = "https://github.com/sandino/django-trumbowyg"
